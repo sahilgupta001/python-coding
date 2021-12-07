@@ -18,6 +18,7 @@ def findMinimumNumber():
     for num in arr:
         if num < min_ele:
             min_ele = num
+            min_ele = num
     return min_ele
 
 def inputArray(n):

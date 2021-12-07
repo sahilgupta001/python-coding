@@ -2,7 +2,6 @@
 # pehla ki ye function se solve hoga
 # dusra ye ki isme hum puri series ki jagah sirf ek position vaala number print karege
 
-
 def printFibonacci(pos):
     if pos == 1:
         print("0")
